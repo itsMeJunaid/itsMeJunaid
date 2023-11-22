@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Student of Software Engineering At **University of Kotli Azad Jammu and Kashmir**
 
-- 🌱 I’m currently learning **Machine Learning, Devops, And AI Automation In Pyhton**
+- 🌱 I’m currently learning **Machine Learning, Devops, And AI Automation In Python**
 
 - 📫 How to reach me **itxjuanid22@gmail.com**
 
