@@ -1,3 +1,4 @@
+![logo](https://github.com/itsMeJunaid/itsMeJunaid/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Junaid Khan | Software Engineer</h1>
 <h3 align="center">A passionate Software Engineer | Python Developer from Pakistan, AJ&K</h3>
 
