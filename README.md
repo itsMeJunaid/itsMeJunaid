@@ -1,6 +1,6 @@
 ![logo](https://github.com/itsMeJunaid/itsMeJunaid/blob/main/banner1.png)
-<h1 align="center">Hi 👋, I'm Junaid Khan | Software Engineer</h1>
-<h3 align="center">A passionate Software Engineer | ML Engineer from Pakistan, AJ&K</h3>
+<h1 align="center">Hi 👋, I'm Junaid Khan | Software Engineering Student</h1>
+<h3 align="center">A passionate AI\ML Developer from Pakistan, AJ&K</h3>
 
 <img align="right" alt="coding" width="400" src= "https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmejunaid&label=Profile%20views&color=0e75b6&style=flat" alt="itsmejunaid" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Student of Software Engineering At **University of Kotli Azad Jammu and Kashmir**
 
-- 🌱 I’m currently learning **Machine Learning, Devops, And AI Automation In Python**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Chatbots Dev and AI Automation In Python**
 
 - 📫 How to reach me **itxjuanid22@gmail.com**
 
