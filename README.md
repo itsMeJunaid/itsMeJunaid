@@ -1,36 +1,100 @@
-![logo](https://github.com/itsMeJunaid/itsMeJunaid/blob/main/banner1.png)
-<h1 align="center">Hi 👋, I'm Junaid Khan | Software Engineering Student</h1>
-<h3 align="center">A passionate AI\ML Developer from Pakistan, AJ&K</h3>
+![banner](https://github.com/itsMeJunaid/itsMeJunaid/blob/main/banner1.png)
 
-<img align="right" alt="coding" width="400" src= "https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmejunaid&label=Profile%20views&color=0e75b6&style=flat" alt="itsmejunaid" /> </p>
+<h1 align="center">Hi 👋, I’m **Junaid Khan**</h1>
+<h3 align="center">AI Engineer | Software Engineer | AI/ML Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmejunaid" alt="itsmejunaid" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/itxjunaid22" target="blank"><img src="https://img.shields.io/twitter/follow/itxjunaid22?logo=twitter&style=for-the-badge" alt="itxjunaid22" /></a> </p>
-
-- 🔭 I’m currently Student of Software Engineering At **University of Kotli Azad Jammu and Kashmir**
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Chatbots Dev and AI Automation In Python**
-
-- 📫 How to reach me **itxjuanid22@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itxjunaid22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itxjunaid22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-junaid-b36342270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-junaid-b36342270" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22962993/junaid-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22962993/junaid-khan" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/junaid512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/junaid512" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100091528927341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100091528927341" height="30" width="40" /></a>
-<a href="https://instagram.com/itxmejunaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itxmejunaid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@techtrick_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techtrick_yt" height="30" width="40" /></a>
+<p align="center">
+  👨‍💻 I design, build, and deploy real-world AI solutions — from ML systems to AI-powered applications and intelligent agents.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmejunaid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/itsMeJunaid"><img src="https://github-profile-trophy.vercel.app/?username=itsmejunaid" alt="GitHub Trophies"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmejunaid&show_icons=true&locale=en&layout=compact" alt="itsmejunaid" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmejunaid&show_icons=true&locale=en" alt="itsmejunaid" /></p>
+## 🔭 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmejunaid&" alt="itsmejunaid" /></p>
+I’m a **Software Engineering student** passionate about **Artificial Intelligence, Machine Learning, and Agentic AI systems**.  
+My goal is to become a **Professional AI Engineer** — designing AI that reliably scales into real products, is responsibly deployed, and brings measurable impact.
+
+📍 Based in **Pakistan (AJ&K)**  
+🎓 Student at **University of Kotli Azad Jammu & Kashmir**  
+💡 I love building **intelligent applications, automation pipelines, and AI agents**.
+
+---
+
+## 🧠 Skills & Expertise
+
+### 🛠 Tech Stack
+
+**Languages:** Python, C++, SQL, JavaScript  
+**AI & ML:** PyTorch, TensorFlow, Scikit-Learn, Hugging Face, LLMs  
+**AI Systems:** AI Agents, RAG, Prompt Engineering, Generative AI  
+**Data & Tools:** NumPy, Pandas, OpenCV, Jupyter  
+**Web & APIs:** FastAPI, Flask, REST, Docker  
+**DevOps & MLOps:** Git, Docker, CI/CD, Basic Cloud  
+**Mobile:** Flutter (UI + AI integration)
+
+---
+
+## 🚀 Projects & Portfolio Highlights
+
+Here are examples of AI-focused work I’ve built — each showing **end-to-end AI system design**:
+
+### 🔹 AI Plant Identifier  
+📌 *Mobile app + backend AI model*  
+- Flutter app to capture plant images  
+- Image classification model (PyTorch)  
+- API deployed with FastAPI + Docker  
+- Live demo + docs included
+
+### 🔹 Scholarship / Job Finder with LLMs (RAG)  
+📌 *AI Assistant over dataset*  
+- LangChain / OpenAI or open-source LLM + vector search  
+- Q&A and recommendation interface  
+- Metrics, demo video, and code in repos
+
+### 🔹 Fraud Detection Pipeline  
+📌 *Production-ready AI pipeline*  
+- End-to-end ETL + model serving  
+- Feature pipeline, metrics tracking, retraining logic
+
+> Add more project sections here — each should include **problem, technology, result, and live/demo links**.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=itsmejunaid&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmejunaid&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-junaid-b36342270"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
+  <a href="https://twitter.com/itxjunaid22"><img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" /></a>
+  <a href="https://kaggle.com/junaid512"><img alt="Kaggle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="30" /></a>
+  <a href="mailto:itxjuanid22@gmail.com"><img alt="Email" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" /></a>
+</p>
+
+---
+
+## 🎯 What I’m Learning Next
+
+- Advanced MLOps & CI/CD for AI products  
+- Agentic AI systems and collaborative AI workflows  
+- Scalable model deployment on cloud  
+
+---
+
+## 🏆 Goals
+
+✔ Build 10+ production-ready AI projects  
+✔ Contribute to open source AI libraries  
+✔ Become a full-stack AI Engineer building impactful systems
